@@ -16,9 +16,13 @@ MTCNN is a python (pip) library created by Github user ipacz that implements Zha
 
 ![Example output of the code](https://github.com/nadidebeyza/face-recognition-performance-eval/blob/main/Output/1.png "Example output of the code")
 
+**Model-2 Output**
+
 ![Example output of the code](https://github.com/nadidebeyza/face-recognition-performance-eval/blob/main/Output/2.png "Example output of the code")
 
 ![Example output of the code](https://github.com/nadidebeyza/face-recognition-performance-eval/blob/main/Output/2.2.png "Example output of the code")
+
+**Model-3 Output**
 
 ![Example output of the code](https://github.com/nadidebeyza/face-recognition-performance-eval/blob/main/Output/3.png "Example output of the code")
 
