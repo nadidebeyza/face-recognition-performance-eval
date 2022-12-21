@@ -4,7 +4,7 @@
 
 In this project performed a performance evaluation of the three face recognition models. 
 
-The first model is implemented using MTCNN by me(https://github.com/nadidebeyza/face-recognition-performance- eval/blob/main/Google%20Colabs./face_recognition_1.ipynb). 
+The first model is implemented using MTCNN by me(https://github.com/nadidebeyza/face-recognition-performance-eval/blob/main/Google%20Colabs./face_recognition_1.ipynb). 
 
 The second model is implemented with Haar Cascading using OpenCV by Dev Dash(https://github.com/nadidebeyza/face-recognition-performance-eval/blob/main/Google%20Colabs./face_recognition_2.ipynb). 
 
