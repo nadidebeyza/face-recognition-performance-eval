@@ -6,7 +6,7 @@ In this project performed a performance evaluation of the three face recognition
 
 The first model is implemented using MTCNN by me(https://colab.research.google.com/drive/1oGlIL_9TgYrrMBkJiLYbOmL-3Da3sOVE#scrol lTo=6yhqJXD_gtL3). 
 
-The second model is implemented with Haar Cascading using OpenCV by Dev Dash(https://colab.research.google.com/drive/1qcN9g1oZI76ua9QscJs3rm3MZI64BSC3#s crollTo=I5�a1ec2DhC). 
+The second model is implemented with Haar Cascading using OpenCV by Dev Dash(https://colab.research.google.com/drive/1qcN9g1oZI76ua9QscJs3rm3MZI64BSC3#s crollTo=I5ba1ec2DhC). 
 
 Finally the third model is implemented using a pre-trained model by Adrian Rosebrock(https://colab.research.google.com/drive/1vU_lTQS0m5o8uX5Owsw_NgeTe2q wCRop?hl=tr). Next section explains the models' structures.
 
